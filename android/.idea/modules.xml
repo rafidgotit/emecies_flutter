@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1613088748/android.flutter_mbtiles_extractor.iml" filepath="$PROJECT_DIR$/.idea/modules/1613088748/android.flutter_mbtiles_extractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1153030895/android.geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/-1153030895/android.geolocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1497836905/android.mapbox_gl.iml" filepath="$PROJECT_DIR$/.idea/modules/-1497836905/android.mapbox_gl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/325483687/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/325483687/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-600010309/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-600010309/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>

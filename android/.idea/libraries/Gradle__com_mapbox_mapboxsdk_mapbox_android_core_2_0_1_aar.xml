@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-core:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b02cd16b214aec5df4dfb7a10879bdc/mapbox-android-core-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b02cd16b214aec5df4dfb7a10879bdc/mapbox-android-core-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1b02cd16b214aec5df4dfb7a10879bdc/mapbox-android-core-2.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-core/2.0.1/c7ba61b7f6ca8ac2f157513d81bb9d95fd3159ad/mapbox-android-core-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-core/2.0.1/1295c5361c075bd3f370bece4bc131b85b56cf14/mapbox-android-core-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
